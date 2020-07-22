@@ -46,31 +46,43 @@ You're managing the desk of an office worker and repeating the same mundane task
 Simple platformer full of enemies but you cannot attack, you can only counter and redirect other enemies attacks. 
 
 ## Enemy Designer
-12="Build out behavior of your enemies so that your player kills them (watch how the player acts and place the enemies in the right position\"
-"
+Design the behavior of the enemis so that the automated player behavior in the level is able to defeat them.
 
-13="Fast paced 2D top down fencing, hallway, not much room to dodge, the only way is forward (macho swashbuckling adventure, cut throug enemies)"
+## Top Down 2D Fencing Hallway
+Imagining a short, fast paced, high adrenaline frenzy. You're just running forward cutting through swarms of enemies. The idea is to make the player feel almost unstoppable as they progress, because sometimes that's just fun.
 
-14="Platformer where you're invincible if you don't move"
+## Invincible Platformer
+The player is invincible as long as they don't move. Light idea but maybe someone else can come up with something.
 
-15="Colony tetris, the tetriminos are buildings, optimization of different room placement"
+## Tetris Building Optimization
+An idea I really like, the idea is that each block of a tetrimino (made up of 4 blocks) is a room with some kind of purpose. Maybe a room is either residential, commercial, or industrial, similar to city builder games. As you play tetris, the placement and proximity of the individual blocks affect the overall score or funds. Essentially two games in one where you're playing Tetris and optimizing the buildings placement. 
 
-16="Document with arbitrary symbols and color combinations, limited amount of time and short description of how the colors (mini platformer at the top) affect the runner/ player"
+## Puzzle Platformer Document
+Some kind of paper or set of instructions that define the behavior of a small platformer. Only some of the instructions can be moved and edited, so maybe the solution to a level may not be as intuitive as they seem.
 
-17="Only one drop of fuel... Maybe a rocket out of control falling (optimize power inside to maximize fueld for suicide burn"
+## Only One Drop
+Something about a rocket with only a little fuel and it's falling constantly. The player has a series of tasks to complete in order to optimize the energy in the ship to soften the landing. I don't know.
 
-18="Floating blocks platformer, make it super easy, if the player fell into the water they would discover secret world"
+## Deceptive Platformer
+Create a platformer that's incredibly easy almost impossible to fail. But, if the player falls off the "world", they'll discover a secret world that is essentially the actual game. The idea is to find some way to reward players that heavily experiment with the boundaries of a simple game.
 
-19="Mobile brick laying, side to side movement, drop a brick and have the integrity of the wall tested at the end o fthe level"
+## Brick Drop
+Drop different types of bricks to form a rigid wall or bridge structure. A limited number of bricks are given before the structure is tested.
 
-20="Form a 3D shape, you're given a flat mishapen polygon and you have to draw the fold lines to form the shape??"
+## Recreate a 3D Shape
+You're shown a 3D shape and given a flat piece piece of material with irregular sides. Draw the fold lines to draw the shape.
 
-21="Infinite Ladder"
+## Infinite Ladder
+That's all I have. Sounds amazing.
 
-22="Minimalist Ship Adventure (behavior differs amongst ships in the fleet) Much more of a conversation / decision travel game"
+## Minimalist Ship Fleet Adventure
+Ships are traveling a long distance together and the player is managing the conversations and relationships between the various crews. Possibily controlled events, for example one ship is destroyed and another ship must decide if they will even rescue the crew. 
 
-23="Create fake mobile applications based on weird requirements for companies and sell them (slight random chance related to success)"
+## Mobile Dev
+Similar to a tycoon game, build out mobile applications and publish them in the game world. Follow trends and get lucky in order to experience extensive success.
 
-24="2D Maze Game, Online Co-op, both players can only SEE the other player's view (they're seperated) and they have to communicate) "
+## Co-op Maze Puzzle Game
+Each player can only see the other player's position. They have to constantly communicate in order to find each other and accomplish the goal of regaining their own sight. A lot of potential for procedural generation.
 
-25="2D Prop Hunt (the players can ask questions from a list) and other players must answer honestly "
+## Multiplayer Single Room Prop Hunt
+Maybe a Guess Who kind of format where the player asks questions that the other players must answer honestly (although I don't know how that would be enforced)
