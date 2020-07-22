@@ -1,22 +1,28 @@
 # The Ongoing List of Game Ideas
 
-This list started with [this video] in which I try to come up with a new game idea every minute. The goal isn't to create fully fleshed out plans for new games, but rather stumble across a few pretty interesting ideas in a relatively short amount of time. I decided to take most of the ideas that I came up with and make them freely available. Usually I'll add a few more of my thoughts to that idea before putting it in this list.
+This list started with [this video] in which I try to come up with a new game idea every minute. The goal isn't to create fully fleshed out plans for new games, but rather stumble across a few pretty interesting ideas in a relatively short amount of time. I decided to take most of the ideas that I came up with and make them freely available. Usually I'll add a few more of my thoughts to that idea before putting it in this list. I didn't put the ideas in any particular order, so quality may vary wildly.
 
-Feel free to use any of the ideas listed in this repository to make games of your own. If you do make something, please let me know because I would love to play it and add it to some kind of showcase in this repository. I hope people enjoy this little ongoing project and I look forward to seeing what you make!
+I would like to use some of these ideas myself someday but feel free to use any listed in this repository to make games of your own. If you do make something, please let me know because I would love to play it and add it to some kind of showcase in this repository. I hope people enjoy this little ongoing project and I look forward to seeing what you make!
 
 ## Randomized House
 A player moves through a simple house looking for a list of items, similar to a scavenger hunt. The house's simplicity allows its state to be randomized (which doors are open, where movable items are placed, which rooms have their lights on). The player is racing against a timer to find the list of items but must also leave the house in its original state upon leaving.
+
+## Tetris Building Optimization
+An idea I really like, the idea is that each block of a tetrimino (made up of 4 blocks) is a room with some kind of purpose. Maybe a room is either residential, commercial, or industrial, similar to city builder games. As you play tetris, the placement and proximity of the individual blocks affect the overall score or funds. Essentially two games in one where you're playing Tetris and optimizing the buildings placement. 
+
+## Co-op Maze Puzzle Game
+Each player can only see the other player's position. They have to constantly communicate in order to find each other and accomplish the goal of regaining their own sight. A lot of potential for procedural generation.
+
+## Co-op Challenge Game
+Each player will take turns moving through a simple platform level. The first player is essentially the "RUNNER" and the other player is the "GUNNER", or something along those lines. As the first player moves through the level, it's up to the second player to remember the path and especially the timing of the first, because when they go through, they will lay traps and attacks that will activate at specific times. Once both players have gone, their movements will play out together and see if the first player survived.
+
+The order could be reversed as well and let the "GUNNER" lay down traps first and see if the other player can remember and properly traverse the level.
 
 ## Moving Tower Defense
 The Player is on a moving platform, like a raft, and must gather materials from the water like wood and metal to expand the raft, create buffers and add more room for defense. The raft is what is being defended against the enemy towers.
 
 ## Multiplayer Traveling Building
 Multiple players work together on a multilevel building to deconstruct the building and literally move it forward. The idea would be to maintain proper balance and structure so that the building does not fall. It might be difficult not to make the gameplay super repetitive, but maybe the building must traverse over obstacles that make preserving resources difficult.
-
-## Co-op Challenge Game
-Each player will take turns moving through a simple platform level. The first player is essentially the "RUNNER" and the other player is the "GUNNER", or something along those lines. As the first player moves through the level, it's up to the second player to remember the path and especially the timing of the first, because when they go through, they will lay traps and attacks that will activate at specific times. Once both players have gone, their movements will play out together and see if the first player survived.
-
-The order could be reversed as well and let the "GUNNER" lay down traps first and see if the other player can remember and properly traverse the level.
 
 ## Dungeon Optimization
 Given a randomized stack of dungeon "tiles", build out a simple dungeon based on certain optimization rules. Examples of some possibilities of maximizing score:
@@ -54,9 +60,6 @@ Imagining a short, fast paced, high adrenaline frenzy. You're just running forwa
 ## Invincible Platformer
 The player is invincible as long as they don't move. Light idea but maybe someone else can come up with something.
 
-## Tetris Building Optimization
-An idea I really like, the idea is that each block of a tetrimino (made up of 4 blocks) is a room with some kind of purpose. Maybe a room is either residential, commercial, or industrial, similar to city builder games. As you play tetris, the placement and proximity of the individual blocks affect the overall score or funds. Essentially two games in one where you're playing Tetris and optimizing the buildings placement. 
-
 ## Puzzle Platformer Document
 Some kind of paper or set of instructions that define the behavior of a small platformer. Only some of the instructions can be moved and edited, so maybe the solution to a level may not be as intuitive as they seem.
 
@@ -80,9 +83,6 @@ Ships are traveling a long distance together and the player is managing the conv
 
 ## Mobile Dev
 Similar to a tycoon game, build out mobile applications and publish them in the game world. Follow trends and get lucky in order to experience extensive success.
-
-## Co-op Maze Puzzle Game
-Each player can only see the other player's position. They have to constantly communicate in order to find each other and accomplish the goal of regaining their own sight. A lot of potential for procedural generation.
 
 ## Multiplayer Single Room Prop Hunt
 Maybe a Guess Who kind of format where the player asks questions that the other players must answer honestly (although I don't know how that would be enforced)
