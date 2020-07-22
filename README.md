@@ -1,6 +1,6 @@
 # The Ongoing List of Game Ideas
 
-This list started with [this video] in which I try to come up with a new game idea every minute. The goal isn't to create fully fleshed out plans for new games, but rather stumble across a few pretty interesting ideas in a relatively short amount of time. I decided to take most of the ideas that I came up with and make them freely available. Usually I'll add a few more of my thoughts to that idea before putting it in this list. I didn't put the ideas in any particular order, so quality may vary wildly.
+This list started with [this video](https://www.youtube.com/watch?v=oaWFRBtrTl8) in which I try to come up with a new game idea every minute. The goal isn't to create fully fleshed out plans for new games, but rather stumble across a few pretty interesting ideas in a relatively short amount of time. I decided to take most of the ideas that I came up with and make them freely available. Usually I'll add a few more of my thoughts to that idea before putting it in this list. I didn't put the ideas in any particular order, so quality may vary wildly.
 
 I would like to use some of these ideas myself someday but feel free to use any listed in this repository to make games of your own. If you do make something, please let me know because I would love to play it and add it to some kind of showcase in this repository. I hope people enjoy this little ongoing project and I look forward to seeing what you make!
 
